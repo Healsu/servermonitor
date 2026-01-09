@@ -1,2 +1,1 @@
-A simple spring boot program i made that just checks if already made servers exist and check their CPU/MEMORY usage that is instance variables atm.
-Im working on it to actually make it so it checks real servers, but this is just a quick sketch program :) 
+A simple Spring Boot program I made that checks whether predefined server instances exist and monitors their CPU and memory usage. At the moment, these values are instance variables. I’m working on extending it to check real servers, but this is just a quick sketch/prototype.
